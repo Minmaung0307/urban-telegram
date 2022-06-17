@@ -13,3 +13,5 @@ Second Step
 (Site Name & Links)
 Site name is changed in title as "urban-octo-telegram". 
 And updated click links to 'Horiseon' and '#search-engine-optimization'.
+
+bug fixes some
