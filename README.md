@@ -18,3 +18,8 @@ some bug-fixes
 
 (Image Alt_Naming)
 Adding alter attributes to image elements.
+
+Third Step
+==========
+(CSS Structure)
+Change order of elements that follow a logical structure independent of styling and positioning in CSS.
