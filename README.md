@@ -23,3 +23,5 @@ Third Step
 ==========
 (CSS Structure)
 Change order of elements that follow a logical structure independent of styling and positioning in CSS.
+
+Adding some for accessibility in sequential order.
