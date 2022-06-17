@@ -25,3 +25,9 @@ Third Step
 Change order of elements that follow a logical structure independent of styling and positioning in CSS.
 
 Adding some for accessibility in sequential order.
+
+Web Images
+1. Header, Navigation and Hero
+![Screen Shot 2022-06-17 at 1 17 53 PM_header-nav](https://user-images.githubusercontent.com/89707083/174349825-8f05bbb5-2497-4cbd-ae9e-cc4b416bb450.jpeg)
+
+2. Body Section
