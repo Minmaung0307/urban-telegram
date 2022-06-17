@@ -14,4 +14,7 @@ Second Step
 Site name is changed in title as "urban-octo-telegram". 
 And updated click links to 'Horiseon' and '#search-engine-optimization'.
 
-bug fixes some
+some bug-fixes
+
+(Image Alt_Naming)
+Adding alter attributes to image elements.
